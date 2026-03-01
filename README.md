@@ -22,3 +22,12 @@ docs/parity-matrix.md
 docs/procurement-safe-language.md
 .github/workflows/validate-bicep.yml
 ```
+
+## Documentation
+
+- `docs/ARCHITECTURE.md`
+- `docs/DEPLOYMENT_GUIDE.md`
+- `docs/OPERATIONS_RUNBOOK.md`
+- `docs/SECURITY_BASELINE.md`
+- `docs/parity-matrix.md`
+- `docs/procurement-safe-language.md`
