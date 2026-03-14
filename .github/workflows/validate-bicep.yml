@@ -9,6 +9,6 @@ jobs:
   file-checks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: test -f bicep/main.bicep && test -f docs/parity-matrix.md
       - run: echo "Placeholder for az bicep build/lint validation"
